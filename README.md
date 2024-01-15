@@ -1,8 +1,8 @@
-# Kotlin Gauge
+# Kotlin | Gauge | Selenium
 
 ## Overview
 
-API and UI Automation Demo using Selenium and Gauge in Kotlin.
+BDD API and UI Automation Demo using Selenium and Gauge in Kotlin.
 
 ## Pre Requisites (MacOS)
 1. Java
