@@ -6,7 +6,7 @@ import org.json.JSONObject
 
 open class APITest() {
     @Step("Verify user <user> is in the list of users")
-    fun main(user: String) {
+    fun findUser(user: String) {
         val baseUrl = "https://reqres.in/api/users"
         var (currentPage, totalPages) = 1 to 1
         var userFound = false
